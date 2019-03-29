@@ -1,2 +1,2 @@
-# TEAM :: MinD(Melting in Development)@SangMyung Univ. 
+# TEAM :: MinD(Melting in Development)
 # Shalendar_Android
